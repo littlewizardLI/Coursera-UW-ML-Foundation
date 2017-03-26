@@ -19,6 +19,5 @@ For more information：go https://www.coursera.org/learn/ml-foundations
 ## Author
 [MingJun Li](https://github.com/littlewizardLI)
 
---- 
 ## License
 [MIT license](https://github.com/littlewizardLI/LICENSE)
