@@ -1,11 +1,13 @@
-# Machine_Learning-Specialization-UW
+## Machine_Learning-Specialization-UW
+
+
 This is the repo for mycode wrote in this courses.
  
-## 1/4 in Machine_Learning-Specialization————A Case Study Approach 
+### 1/4 in Machine_Learning-Specialization————A Case Study Approach 
 For more information：go https://www.coursera.org/learn/ml-foundations
 
 
-## Course Proflie 课程-内容
+### Course Proflie 课程-内容
  
 1. 结合现实存在的公司来谈机器学习在商业的核心应用形式。
 2. 了解回归，分类，深度学习以及推荐系统的基本原理和应用领域
