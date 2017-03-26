@@ -4,7 +4,7 @@
 <br /> <br />
 ---
 ### Course-Content 学习内容
- ------
+--
 * **结合现实存在的公司来谈机器学习在商业的核心应用形式**
 
 Combine the reality of the company to talk about machine learning in the commercial core application form    
@@ -23,7 +23,7 @@ Combine python and grahplab to complete machine learning applications in the fiv
 
 * For more information：go https://www.coursera.org/learn/ml-foundations
  <br />
----
+
 ## Author
 [MingJun Li](https://github.com/littlewizardLI)
 
