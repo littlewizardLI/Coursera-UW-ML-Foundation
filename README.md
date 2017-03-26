@@ -1,11 +1,11 @@
 ## Machine_Learning-Specialization-UW
 
 
-1/4 in Machine_Learning-Specialization————A Case Study Approach
+**1/4 in Machine_Learning-Specialization————A Case Study Approach**
 
 For more information：go https://www.coursera.org/learn/ml-foundations
 
---- 
+-
 ### Course Proflie 课程-内容
  
 * **结合现实存在的公司来谈机器学习在商业的核心应用形式**
