@@ -1,9 +1,9 @@
-## Machine_Learning-Specialization-UW--------
+## Machine_Learning-Specialization-UW
 **1/4 in Machine_Learning-Specialization————A Case Study Approach**
 
 <br /> <br />
 ---
-### Course-Proflie 课程-内容
+### 学习内容
  
 * **结合现实存在的公司来谈机器学习在商业的核心应用形式**
 
