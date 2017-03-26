@@ -19,11 +19,8 @@ Understand the basic principles and applications of regression, classification, 
 * **结合python和grahplab完成在“回归，分类，深度学习以及推荐系统”等5个方面的机器学习应用**
 
 Combine python and grahplab to complete machine learning applications in the five areas of "regression, classification, depth learning and recommendation system"  
----
-1/4 in Machine_Learning-Specialization————A Case Study Approach
-For more information：go https://www.coursera.org/learn/ml-foundations
 
----
+
 ## Author
 [MingJun Li](https://github.com/littlewizardLI)
 
