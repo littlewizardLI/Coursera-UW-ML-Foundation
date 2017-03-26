@@ -21,8 +21,6 @@ Combine python and grahplab to complete machine learning applications in the fiv
  <br /> <br />
 
 
-**1/4 in Machine_Learning-Specialization————A Case Study Approach**
-
 * For more information：go https://www.coursera.org/learn/ml-foundations
  <br />
 ---
