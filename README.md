@@ -3,8 +3,8 @@
 
 <br /> <br />
 ---
-### course-content 学习内容
- 
+### Course-Content 学习内容
+ ------
 * **结合现实存在的公司来谈机器学习在商业的核心应用形式**
 
 Combine the reality of the company to talk about machine learning in the commercial core application form    
