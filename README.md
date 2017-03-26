@@ -2,7 +2,7 @@
 Repo for Machine Learning Specialization offered by UW
 
 ## Author
-[Linghao Zhang](https://github.com/dnc1994)
+[MingJun Li](https://github.com/littlewizardLI)
 
 ## License
-[MIT license](https://github.com/dnc1994/MachineLearning-UW/blob/master/LICENSE)
+[MIT license](https://github.com/littlewizardLI/LICENSE)
